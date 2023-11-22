@@ -21,6 +21,13 @@ h1 {
   top: -10px;
 }
 
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+}
+
 h3 {
   font-size: 1.2rem;
 }

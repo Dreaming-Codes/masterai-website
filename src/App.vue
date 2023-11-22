@@ -25,6 +25,7 @@ import Home from './components/Home.vue'
 </template>
 
 <style scoped>
+
 header {
   line-height: 1.5;
   max-height: 100vh;
