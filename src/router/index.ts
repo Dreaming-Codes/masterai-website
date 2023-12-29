@@ -23,6 +23,11 @@ const router = createRouter({
       component: () => import('../views/PrivacyView.vue')
     },
     {
+      path: '/tos',
+      name: 'TOS',
+      component: () => import('../views/TosView.vue')
+    },
+    {
       path: '/account-deletion',
       name: 'account-deletion',
       component: () => import('../views/AccountDeletionView.vue')
