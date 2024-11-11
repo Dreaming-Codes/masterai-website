@@ -71,6 +71,8 @@ import { RouterLink } from "vue-router";
                 <IconCompany />
             </template>
             <template #heading>Company info</template>
+            MASTERAI S.R.L.S.
+            <br />
             Via Appia Antica 168, 00178 Rome
             <br />
             Italy Tax Code / VAT Number: 17291571002
